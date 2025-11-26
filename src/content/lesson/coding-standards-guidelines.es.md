@@ -11,11 +11,11 @@ description: >-
 
 Los estudios han demostrado que los desarrolladores que usan las mejores prácticas al escribir código son hasta un 40% más productivos que aquellos que no lo hacen, y que el código con buenas prácticas es hasta un 50% más barato de mantener que el código con malas prácticas.
 
-Además, las empresas y los gobiernos pierden mucho dinero todos los días porque los desarrolladores no siguen las mejores prácticas y directrices, aquí hay algunos ejemplos sobre los que puedes leer más:
+Además, las empresas y los gobiernos pierden mucho dinero todos los días porque los desarrolladores no siguen las mejores prácticas y directrices. Aquí hay algunos ejemplos sobre los que puedes leer más:
 
 - La Órbita Climática de Marte de la NASA se perdió porque el equipo no estaba usando un sistema de métricas consistente en la base del código; lo que llevó a una confusión en los cálculos, perdiendo $320 millones.
 - La explosión del cohete Ariane 5 de la ESA fue causada por un código muy difícil de leer, $370 millones perdidos.
-- El Flash Crash del mercado de valores de EE. UU. en 2010, pérdidas financieras significativas no divulgadas.
+- El “Flash Crash” del mercado de valores de EE. UU. en 2010 provocó pérdidas financieras significativas (no divulgadas públicamente).
 
 Esta lección es una compilación de las mejores prácticas que promovemos en 4Geeks, ha sido creada y enriquecida con contribuciones de todos los mentores de la comunidad.
 
